@@ -1,0 +1,9 @@
+pypdf2==3.0.1
+reportlab==4.0.9
+google.generativeai
+streamlit_chat
+streamlit
+python-dotenv
+Pillow
+google-cloud
+streamlit_elements
